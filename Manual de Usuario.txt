@@ -1,0 +1,19 @@
+Manual de Usuario:
+
+Push de Usuarios :
+{ 
+ "name": "",
+ "email": "",
+ "age": ,
+ "country": ""
+}
+
+Push de Posteos:
+{
+ "title": "",
+ "content": "",
+ "authorId": ,
+ "published": ,
+ "categoryId": 
+}
+
