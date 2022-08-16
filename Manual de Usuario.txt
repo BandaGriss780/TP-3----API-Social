@@ -17,3 +17,10 @@ Push de Posteos:
  "categoryId": 
 }
 
+
+lista de categorias :
+1 economia 
+2 politica
+3 deporte
+4 tecnologia
+5 opinion
